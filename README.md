@@ -1,1 +1,1 @@
-# Synthetic-Patient-Generation-App
+# Patient-HeaIth-Generation-App
